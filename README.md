@@ -1,3 +1,3 @@
 # PYCO...
-PYTHON CODE EXAMPLES
-This page contain various python codes and python scripts
+PYTHON CODE EXAMPLES.
+This page contain various python codes and python scripts.
