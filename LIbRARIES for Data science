@@ -1,0 +1,23 @@
+BASIC LIBRARIES FOR DATA SCIENCE
+
+These are the basic libraries that transform Python from a general purpose programming language into a powerfuland robust tool for 
+data analysis and visualization. Sometimes called the SciPy Stack, they’re the foundation that the more specialized tools are built on.
+
+NumPy-is the foundational library for scientific computing in Python, and many of the libraries on this list use NumPy arrays as
+their basic inputs and outputs. In short, NumPy introduces objects for multidimensional arrays and matrices,as well as routines
+that allow developers to perform advanced mathematical and statistical functions on those arrays with as little code as possible.
+
+SciPy-builds on NumPy by adding a collection of algorithms and high-level commands for manipulating and visualizing data.
+This package includes functions for computing integrals numerically, solving differential equations, optimization, and more.
+
+Pandas-adds data structures and tools that are designed for practical data analysis in finance, statistics, social sciences, and
+engineering. Pandas works well with incomplete, messy, and unlabeled data (i.e., the kind of data you’re likely to encounter in the
+real world), and provides tools for shaping, merging, reshaping, and slicing datasets.
+
+IPython-extends the functionality of Python’s interactive interpreter with a souped-up interactive shell that adds introspection, 
+rich media,shell syntax, tab completion, and command history retrieval. It also acts as an embeddable interpreter for your programs 
+that can be really useful for debugging. If you’ve ever used Mathematica or MATLAB, you should feel comfortable with IPython.
+
+matplotlib-is the standard Python library for creating 2D plots and graphs. It’s pretty low-level, meaning it requires more commands 
+to generate nice-looking graphs and figures than with some more advanced libraries. However, the flip side of that is flexibility. 
+With enough commands, you can make just about any kind of graph you want with matplotlib.
