@@ -21,3 +21,6 @@ that can be really useful for debugging. If you’ve ever used Mathematica or MA
 5.matplotlib-is the standard Python library for creating 2D plots and graphs. It’s pretty low-level, meaning it requires more commands 
 to generate nice-looking graphs and figures than with some more advanced libraries. However, the flip side of that is flexibility. 
 With enough commands, you can make just about any kind of graph you want with matplotlib.
+
+6.beautiful soup or bs4 : it helps in scraping all type of html files(particularly the bad ones and the internet is full of em).
+                          we need it because sometime html can't understand regex complexity
